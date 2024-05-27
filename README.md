@@ -1,8 +1,8 @@
 # Escape Of Maze
 
 **Youtube Game Tutorial:** https://youtu.be/Y_8I-Na2vo8
-**İletişim Bilgisi:** mehmetgsmidikoglu
-@gmail.com
+
+**İletişim Bilgisi:** mehmetgsmidikoglu@gmail.com
 ## Oyunun Amacı
 
 Oyunun amacı, oyuncunun dikkat, hafıza ve hesaplama yeteneklerini ölçmektir.
