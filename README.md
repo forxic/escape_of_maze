@@ -34,17 +34,17 @@ Oyunda, karakterin mermi sayısını artıran mermi kutuları bulunmaktadır. Ka
 
 ## Görseller
 
-*Karakter Hareketi ve Düşmanlarla Karşılaşma*
-![Karakter Hareketi](link_to_image1)
-(https://github.com/forxic/escape_of_maze/assets/149058022/4617bbc8-ef3e-44b4-8a79-9319730f9a1e)
-![Oyun8](https://github.com/forxic/escape_of_maze/assets/149058022/125c6631-fd4f-4817-863d-545ab746c1c8)
-![Oyun7](https://github.com/forxic/escape_of_maze/assets/149058022/2ef7ea49-1d74-4d8d-b045-f5af08b0d560)
-![Oyun6](https://github.com/forxic/escape_of_maze/assets/149058022/100a4105-ba48-4645-b68a-3ad12838409d)
-![Oyun5](https://github.com/forxic/escape_of_maze/assets/149058022/6d42598e-e129-4477-b71c-858765ba5aec)
-![Oyun4](https://github.com/forxic/escape_of_maze/assets/149058022/75e7c688-8f43-4dec-b1d0-ac02c5283f08)
-![Oyun3](https://github.com/forxic/escape_of_maze/assets/149058022/9a3286a2-bf0d-40c2-9cdb-ccf2991a07c6)
-![Oyun2](https://github.com/forxic/escape_of_maze/assets/149058022/a534ea92-6827-45a9-be09-d60d2bf3fbf2)
+*Karakter Hareketi ve Düşmanlarla Karşılaşma*  
+![Karakter Hareketi](https://github.com/forxic/escape_of_maze/assets/149058022/4617bbc8-ef3e-44b4-8a79-9319730f9a1e)  
+![Oyun8](https://github.com/forxic/escape_of_maze/assets/149058022/125c6631-fd4f-4817-863d-545ab746c1c8)  
+![Oyun7](https://github.com/forxic/escape_of_maze/assets/149058022/2ef7ea49-1d74-4d8d-b045-f5af08b0d560)  
+![Oyun6](https://github.com/forxic/escape_of_maze/assets/149058022/100a4105-ba48-4645-b68a-3ad12838409d)  
+![Oyun5](https://github.com/forxic/escape_of_maze/assets/149058022/6d42598e-e129-4477-b71c-858765ba5aec)  
+![Oyun4](https://github.com/forxic/escape_of_maze/assets/149058022/75e7c688-8f43-4dec-b1d0-ac02c5283f08)  
+![Oyun3](https://github.com/forxic/escape_of_maze/assets/149058022/9a3286a2-bf0d-40c2-9cdb-ccf2991a07c6)  
+![Oyun2](https://github.com/forxic/escape_of_maze/assets/149058022/a534ea92-6827-45a9-be09-d60d2bf3fbf2)  
 ![Oyun1](https://github.com/forxic/escape_of_maze/assets/149058022/dca4c677-515f-4d1d-af63-1f81ff5343a9)
 
+---
 
-
+Bu rehber, oyunun temel mekaniği ve oynanışı hakkında bilgi verir. Oyun içindeki ipuçları ve stratejilerle daha da ustalaşabilirsiniz. İyi eğlenceler!
