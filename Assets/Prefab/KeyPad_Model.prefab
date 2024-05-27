@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7067182663516473255
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_Name
+      value: KeyPad_Model
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.4343033
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.3759806
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.6033077
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5969037408272879661}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7221495511173966825}
+  m_SourcePrefab: {fileID: 100100000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+--- !u!1 &7067182663516504327 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: bdf8853e43781eb4384a6aa7f368e9e8, type: 3}
+  m_PrefabInstance: {fileID: 7067182663516473255}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5969037408272879661
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7067182663516504327}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 105.05104, y: 187.73274, z: 43.60224}
+  m_Center: {x: -2.1959305, y: -52.357697, z: -6.9185915}
+--- !u!114 &7221495511173966825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7067182663516504327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a370d2b915bef4c80e155b5ebf510a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  doorToOpen: {fileID: 0}
+  keyPadUI: {fileID: 0}
+  passwordText: {fileID: 0}
+  password: 1
+  dropText: {fileID: 0}
+  playerScript: {fileID: 0}
