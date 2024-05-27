@@ -45,6 +45,3 @@ Oyunda, karakterin mermi sayısını artıran mermi kutuları bulunmaktadır. Ka
 ![Oyun2](https://github.com/forxic/escape_of_maze/assets/149058022/a534ea92-6827-45a9-be09-d60d2bf3fbf2)  
 ![Oyun1](https://github.com/forxic/escape_of_maze/assets/149058022/dca4c677-515f-4d1d-af63-1f81ff5343a9)
 
----
-
-Bu rehber, oyunun temel mekaniği ve oynanışı hakkında bilgi verir. Oyun içindeki ipuçları ve stratejilerle daha da ustalaşabilirsiniz. İyi eğlenceler!
